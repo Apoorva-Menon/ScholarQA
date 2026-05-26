@@ -42,6 +42,7 @@ dist-ssr
 *.sln
 *.sw?
 
+.gitattributes
 
 # Vite
 frontend/dist/
